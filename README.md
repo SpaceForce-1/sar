@@ -8,3 +8,6 @@
 
 path = kagglehub.dataset_download("danielwander/sp-road-dataset-sprd")
 `
+
+## Kaggle additional datasets 
+https://www.kaggle.com/datasets/requiemonk/sentinel12-image-pairs-segregated-by-terrain
